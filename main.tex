@@ -1,0 +1,149 @@
+\documentclass{llncs}
+%%%%%%%%%%%%%%%%%%%%
+
+%\usepackage{a4wide}
+\usepackage{url}
+\pagestyle{plain}
+%%%%%%%%%%%%%%%%%%%%
+\input{commands}
+%%%%%%%%%%%%%%%%%%%%
+\title{
+  A Coloured Petri Net based Approach to Software Engineering for the
+  TinyOS Platform
+}
+\author{
+  Vegard Veiset \and Lars Michael Kristensen
+}
+\institute{
+  Department of Computing, Bergen University College \\
+  Email: \email{vegard.veiset@stud.hib.no,lmkr@hib.no}
+}
+%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+
+TinyOS is a widely used platform for the development of networked
+embedded systems offering a programming model specifically targeting
+resource constrained devices. We present a software engineering
+approach where Coloured Petri Nets models can be used as a starting
+point for developing protocol software for the TinyOS platform. The
+approach consists of five refinement steps in which a
+platform-independent CPN model is gradually refined into
+platform-specific model from which code can be automatically
+generated. We illustrate our approach by deriving an implementation of
+the Roll routing protocol for sensor networks specified by the
+Internet Engineering Task Force (IETF).
+
+\end{abstract}
+
+\paragraph{\textbf{Introduction.}}
+
+Model-based software engineering and verification offers many
+attractive properties in the development of flexiable and reliable
+software systems. In order to fully leverage the investment into
+modelling using the constructed models directly for the implementation
+of the software on the platform under consideration. Coloured Petri
+Nets (and Petri Nets in general) constitute a general purpose
+modelling language supporting platform-independent modelling of
+concurrent software systems. This means that in many cases CPN models
+are too abstract to be used directly for the implementation of a
+system. In order to bridge the gap between abstract and platform
+independent models and the implementation of software to be deployed a
+concept of pragmatics were introduced in \cite{X}. Pragmatics are
+syntactical annotation that can be added to the CPN model and which is
+used to direct the code generation from a specific platform. The
+contribution of this paper it the development of an approach based on
+the ideas of \cite{X} to develop an approach that allows code for the
+TinyOS platform to be generated from CPN models. TinyOS is a platform
+targetting the development of software for resource constrained
+devices. Application for the TinyOS platform are implemented using the
+NesC programming language which is a dialect of C. Application written
+in NesC is organised into a wired set of modules each provising an
+interface consists of command and events. A central aspect of the
+programming model is the use of split-phase operations in order to
+avoid lenghtly and time-consumsing operations that would lead to a
+violation of real-time constraints.
+
+\paragraph{\textbf{Refinement Steps and Code Generation.}}
+
+Our approach consists of five steps starting from a platform
+independent CPN model of the protocol under consideration. This CPN
+model is typically constructed with the aim of specifying the
+operation of the protocol and support the verification of the protocol
+design. Each step consists of transformation of the CPN model that
+uses the constructs of the CPN modelling language to refine the
+model. Furthermore, in each step pragmatic annotation are added that
+will direct the code generation after the fifth step.
+
+\begin{description}
+\item[Step 1: Component Architecture] consist of annotating CPN
+  submodules and substitution transition corresponding to TinyOS
+  components, and by inscribing the connected CPN arcs with pragmatics
+  specifying which TinyOS interfaces they are using and providing.
+
+\item[Step 2: Resolving Interface Conflicts] resolves interface
+  conflict allowing components to use multiple instances of a single
+  interface. This is done by annotating the CPN arcs with information
+  provising locally unique names.
+
+\item[Step 3: Component and Interface Signature] adds type signatures
+  to components and interfaces. This is done by separating the CPN
+  logic into submodules representing TinyOS events and commands, and
+  by refinining colour ses CPN places to describe the interface
+  signatures.
+
+\item[Step 4: Component Classification] further refines the component
+  by classifying them into four main types: timed compo- nents,
+  external components, components executed at application boot, and
+  general components.
+
+\item[Step 5: Internal Component Behaviour] consist of refining the
+  modeling of the individual command and events so that control flow
+  and data manipulation becomes explicit and split into basic
+  statement blocks.
+
+\end{description}
+
+After the fifth refinment step has been performed the CPN model now
+includes sufficient detail to be used as a basis for automated code
+generation. The automatic code generation is supported by the computer
+tools that we have developed which uses the Access/CPN library to load
+CPN model created with CPN tools and which uses the pragmatic
+annotation of the refined model to implement a template-based code
+generation approach in which the CPN model is traversed in a top-down
+manner and code templates are selected according to the pragmatic
+annotation.
+ 
+To validate our approach on an industrial-sized example we have
+conducted a case study using our approach and software prototype on
+the Roll routing protocol developed by the IETF. The Roll protocol
+allows a set of sensor nodes to form a routing tree which can be used
+for communication among the sensor nodes. The formation of the routing
+tree is based on the exhange of X messages among the sensor
+nodes. 
+
+% tool support
+
+\paragraph{\textbf{Outlook}.}
+
+At this stage a first proof-of-concept for our approach has been
+established via the case study performed on the Roll protocol. This
+case study will have to be complemented by additional
+examples. Furthermore, at this stage the steps of the approach has
+been introduced in an informal manner. Formally defining the
+meta-models corresponding to each of the step would be required to
+precisely specify the approach. Another direction is the application
+of verification techniques at each step of the approach in order to
+ensure that the key properties are preserved by the model
+transformations performed at each step, and to also investigate
+whether verification is appliable from the abstract to the refined
+models.
+
+
+\bibliographystyle{plain}
+\bibliography{bib}
+
+\end{document}

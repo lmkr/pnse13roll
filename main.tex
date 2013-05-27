@@ -33,7 +33,7 @@
 TinyOS is a widely used platform for the development of networked
 embedded systems offering a programming model targeting resource
 constrained devices. We present a software engineering approach where
-Coloured Petri Nets (CPNs) models is used as a starting point for
+Coloured Petri Net (CPNs) models are used as a starting point for
 developing protocol software for the TinyOS platform. The approach
 consists of five refinement steps where a platform-independent CPN
 model is gradually refined into a platform-specific model that enables
@@ -45,26 +45,26 @@ networks.
 \end{abstract}
 
 \subsubsection{Introduction.} Model-based software engineering and verification  has several attractive properties in the development of flexible and reliable
-software systems. In order to fully leverage the investment into
-modelling, using the constructed models directly for the
+software systems. In order to fully leverage the modelling investment
+it is desireable to use the constructed models also for the
 implementation of the software on the platform under
 consideration. Coloured Petri Nets \cite{CPNsttt} (and Petri Nets in
 general) constitute a general purpose modelling language supporting
-platform-independent modelling of concurrent software systems. Hence,
-in most cases such models are too abstract to be used directly for the
-implementation of a system. In order to bridge the gap between
-abstract and platform independent CPN models and the implementation of
-software to be deployed, a concept of \concept{pragmatics} were
-introduced in \cite{NWPTpaper}. Pragmatics are syntactical annotations
-that can be added to the CPN model and used to direct the code
-generation for a specific platform. The contribution of this paper is
-an approach \cite{veisetthesis} that exploit pragmatics in combination
-with a five step refinement methodology to enable code generation for
-the TinyOS platform. Applications for TinyOS \cite{LevisTinyOS} are
+platform-independent modelling of concurrent systems. Hence, in most
+cases such models are too abstract to be used directly to implement
+software. In order to bridge the gap between abstract and platform
+independent CPN models and the implementation of software to be
+deployed, a concept of \concept{pragmatics} were introduced in
+\cite{NWPTpaper}. Pragmatics are syntactical annotations that can be
+added to a CPN model and used to direct code generation for a specific
+platform. The contribution of this paper is an approach
+\cite{veisetthesis} that exploits pragmatics in combination with a
+five step refinement methodology to enable code generation for the
+TinyOS platform. Applications for TinyOS \cite{LevisTinyOS} are
 implemented using the NesC programming language (a dialect of C) and
-an event-based programming model. Applications written in NesC is
-organised into a wired set of modules each providing an interface
-consists of commands and events.
+an event-based split-phase programming model. An application written
+in NesC is organised into a wired set of modules each providing an
+interface consisting of commands and events.
 
 
 %A central
@@ -72,15 +72,16 @@ consists of commands and events.
 %operations in order to avoid lengthly and time-consuming operations
 %that would violate any real-time constraints.
 
-%\vspace*{-0.75em}
+\vspace*{-0.75em}
 \subsubsection{Refinement Steps.}
 
 The model refinement start from a platform independent CPN model
-constructed with the aim of specifying the protocol operation and
-model checking the protocol design. Each step consists of a
-transformation that uses the constructs of the CPN modelling language
-to refine the model. Furthermore, in each step pragmatics are added
-that will direct the code generation after the fifth step:
+constructed typically with the aim of specifying the protocol
+operation and performing model checking of the protocol design. Each
+step consists of a transformation that uses the constructs of the CPN
+modelling language to add details to the model. Furthermore, in each
+step pragmatics are added that will direct the code generation
+performed after the fifth step:
 
 
 \begin{description}
@@ -90,7 +91,8 @@ that will direct the code generation after the fifth step:
 
 \item[Step 1: Component Architecture] consist of annotating CPN
   submodules and substitution transition corresponding to TinyOS
-  components, and make explicit specify the interfaces used and provided.
+  components, and make explicit the interfaces used and provided by
+  components.
 
 \item[Step 2: Resolving Interface Conflicts] resolves interface
   conflicts allowing components to use multiple instances of an
@@ -107,34 +109,34 @@ that will direct the code generation after the fifth step:
   generic.
 
 \item[Step 5: Internal Component Behaviour] consist of refining the
-  modelling of the individual command and events such that control flow
-  and data manipulation becomes explicit and organised in into atomic
-  statement blocks.
+  modelling of the individual command and events such that control
+  flow and data manipulation becomes explicit and organised into
+  atomic statement blocks.
 
 \end{description}
 
 \noindent
-After the fifth refinement step has been performed the CPN model
+After the fifth refinement step has been performed, the CPN model
 includes sufficient detail to be used as a basis for automated code
 generation.
  
-%\vspace*{-0.75em}
+\vspace*{-0.75em}
 \subsubsection{The RPL Protocol and Code Generation.}
 
-To validate our approach on an industrial-sized example we have
-conducted a case study using our approach on the RPL routing protocol
+To evaluate our approach on an industrial-sized example, we have
+conducted a case study based on the RPL routing protocol
 \cite{rplprotocol} developed by the Internet Engineering Task
 Force. The RPL protocol allows a set of sensor nodes to construct a
-destination-oriented directed acyclic graph (DODAG) which can be used
-for multi-hop communication among the sensor nodes.  The support the
-automatic code generation for TinyOS we have developed a software
+destination-oriented directed acyclic graph which can be used for
+multi-hop communication among the sensor nodes.  To support the
+automatic code generation for TinyOS, we have developed a software
 prototype in Java that performs a template-based model-to-text
 transformation on the models resulting from the fifth refinement
-step. The software prototype uses exploits the Access/CPN framework
+step. The software prototype relies on the Access/CPN framework
 \cite{accesscpn} to load CPN models created with CPN Tools. The
 prototype performs top-down traversal of the CPN model where code
-templates are selected according to the pragmatic annotations
-encountered.
+templates are selected according to the pragmatic annotationson the
+CPN model elements encountered.
 
 % tool support
 

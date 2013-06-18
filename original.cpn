@@ -3,7 +3,7 @@
 
 <workspaceElements>
   <generator tool="CPN Tools"
-             version="3.2.2"
+             version="3.4.0"
              format="6"/>
   <cpnet>
     <globbox>
@@ -563,7 +563,7 @@ Link</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NodexPacket</text>
+                version="3.4.0">NodexPacket</text>
         </type>
         <initmark id="ID1412617869">
           <posattr x="-450.000000"
@@ -577,7 +577,7 @@ Link</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
       </place>
       <place id="ID1412650075">
@@ -616,7 +616,7 @@ To Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NodexPacket</text>
+                version="3.4.0">NodexPacket</text>
         </type>
         <initmark id="ID1412650077">
           <posattr x="-211.000000"
@@ -630,7 +630,7 @@ To Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
       </place>
       <trans id="ID1412616558"
@@ -678,7 +678,7 @@ To Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </cond>
         <time id="ID1412616560">
           <posattr x="-231.500000"
@@ -692,7 +692,7 @@ To Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1412616561">
           <posattr x="-211.500000"
@@ -706,7 +706,7 @@ To Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1412616562">
           <posattr x="-212.500000"
@@ -720,7 +720,7 @@ To Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1412616563">
           <posattr x="-578.000000"
@@ -734,7 +734,7 @@ To Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <trans id="ID1412677974"
@@ -782,7 +782,7 @@ To Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </cond>
         <time id="ID1412677976">
           <posattr x="-232.500000"
@@ -796,7 +796,7 @@ To Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1412677977">
           <posattr x="-212.500000"
@@ -810,7 +810,7 @@ To Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1412677978">
           <posattr x="-213.500000"
@@ -824,7 +824,7 @@ To Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1412677979">
           <posattr x="-577.000000"
@@ -838,7 +838,7 @@ To Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <arc id="ID1412621279"
@@ -883,7 +883,7 @@ To Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </annot>
       </arc>
       <arc id="ID1412655597"
@@ -928,7 +928,7 @@ To Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </annot>
       </arc>
       <arc id="ID1430780068"
@@ -973,7 +973,7 @@ To Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </annot>
       </arc>
       <arc id="ID1430780787"
@@ -1018,7 +1018,7 @@ To Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </annot>
       </arc>
       <hguideline id="ID1412653469"
@@ -1078,7 +1078,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">Topology</text>
+                version="3.4.0">Topology</text>
         </type>
         <initmark id="ID1412615580">
           <posattr x="-297.500000"
@@ -1092,7 +1092,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">topologyScenario</text>
+                version="3.4.0">topologyScenario</text>
         </initmark>
       </place>
       <place id="ID1412619557">
@@ -1131,7 +1131,7 @@ Link</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NodexPacket</text>
+                version="3.4.0">NodexPacket</text>
         </type>
         <initmark id="ID1412619559">
           <posattr x="-528.000000"
@@ -1145,7 +1145,7 @@ Link</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
         <port id="ID1412644202"
               type="In">
@@ -1197,7 +1197,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NodexPacket</text>
+                version="3.4.0">NodexPacket</text>
         </type>
         <initmark id="ID1412665470">
           <posattr x="-43.000000"
@@ -1211,7 +1211,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
         <port id="ID1412671308"
               type="Out">
@@ -1262,7 +1262,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">TopologyChanges</text>
+                version="3.4.0">TopologyChanges</text>
         </type>
         <initmark id="ID1430657632">
           <posattr x="167.500000"
@@ -1276,7 +1276,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">[(3,2,DOWN)]</text>
+                version="3.4.0">[(3,2,DOWN)]</text>
         </initmark>
       </place>
       <trans id="ID1412660033"
@@ -1308,7 +1308,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </cond>
         <time id="ID1412660035">
           <posattr x="-300.500000"
@@ -1322,7 +1322,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1412660036">
           <posattr x="-280.500000"
@@ -1336,7 +1336,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1412660037">
           <posattr x="-281.500000"
@@ -1350,7 +1350,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1412660038">
           <posattr x="-465.000000"
@@ -1364,7 +1364,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <trans id="ID1429707971"
@@ -1412,7 +1412,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </cond>
         <time id="ID1429707973">
           <posattr x="-25.500000"
@@ -1426,7 +1426,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1429707974">
           <posattr x="-5.500000"
@@ -1440,7 +1440,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1429707975">
           <posattr x="-6.500000"
@@ -1454,7 +1454,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1429707976">
           <posattr x="-226.000000"
@@ -1468,7 +1468,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <arc id="ID1412667738"
@@ -1500,7 +1500,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">sendPacket(adj,n,packet)</text>
+                version="3.4.0">sendPacket(adj,n,packet)</text>
         </annot>
       </arc>
       <arc id="ID1412668322"
@@ -1532,7 +1532,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n,packet)</text>
+                version="3.4.0">(n,packet)</text>
         </annot>
       </arc>
       <arc id="ID1429715760"
@@ -1564,7 +1564,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </annot>
       </arc>
       <arc id="ID1429719705"
@@ -1596,7 +1596,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </annot>
       </arc>
       <arc id="ID1430709579"
@@ -1628,7 +1628,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, adj)</text>
+                version="3.4.0">(n, adj)</text>
         </annot>
       </arc>
       <hguideline id="ID1412670083"
@@ -1692,7 +1692,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">Topology</text>
+                version="3.4.0">Topology</text>
         </type>
         <initmark id="ID1430454086">
           <posattr x="-272.000000"
@@ -1706,7 +1706,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
         <port id="ID1429800141"
               type="I/O">
@@ -1757,7 +1757,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">TopologyChanges</text>
+                version="3.4.0">TopologyChanges</text>
         </type>
         <initmark id="ID1429770228">
           <posattr x="206.000000"
@@ -1771,7 +1771,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
         <port id="ID1430589129"
               type="I/O">
@@ -1816,7 +1816,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">[not (linkExists((n1, adj1), (n2, adj2)))]</text>
+                version="3.4.0">[not (linkExists((n1, adj1), (n2, adj2)))]</text>
         </cond>
         <time id="ID1429740937">
           <posattr x="-16.500000"
@@ -1830,7 +1830,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1429740938">
           <posattr x="3.500000"
@@ -1844,7 +1844,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1429740939">
           <posattr x="2.500000"
@@ -1858,7 +1858,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1429740940">
           <posattr x="-203.000000"
@@ -1872,7 +1872,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <trans id="ID1429748654"
@@ -1904,7 +1904,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">[linkExists((n1, adj1),
+                version="3.4.0">[linkExists((n1, adj1),
 (n2, adj2))]</text>
         </cond>
         <time id="ID1429748656">
@@ -1919,7 +1919,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1429748657">
           <posattr x="3.500000"
@@ -1933,7 +1933,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1429748658">
           <posattr x="2.500000"
@@ -1947,7 +1947,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1429748659">
           <posattr x="-203.000000"
@@ -1961,7 +1961,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <arc id="ID1429950222"
@@ -1993,7 +1993,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">addLink((n1, adj1), (n2, adj2))</text>
+                version="3.4.0">addLink((n1, adj1), (n2, adj2))</text>
         </annot>
       </arc>
       <arc id="ID1429952546"
@@ -2025,7 +2025,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">removeLink((n1, adj1), (n2, adj2))</text>
+                version="3.4.0">removeLink((n1, adj1), (n2, adj2))</text>
         </annot>
       </arc>
       <arc id="ID1430042983"
@@ -2070,7 +2070,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">1`(n1, adj1) ++
+                version="3.4.0">1`(n1, adj1) ++
 1`(n2, adj2)</text>
         </annot>
       </arc>
@@ -2116,7 +2116,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">1`(n1, adj1) ++
+                version="3.4.0">1`(n1, adj1) ++
 1`(n2, adj2)</text>
         </annot>
       </arc>
@@ -2149,7 +2149,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">tc</text>
+                version="3.4.0">tc</text>
         </annot>
       </arc>
       <arc id="ID1430077548"
@@ -2181,7 +2181,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">tc</text>
+                version="3.4.0">tc</text>
         </annot>
       </arc>
       <arc id="ID1430080045"
@@ -2226,7 +2226,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n1, n2, UP) :: tc</text>
+                version="3.4.0">(n1, n2, UP) :: tc</text>
         </annot>
       </arc>
       <arc id="ID1430085074"
@@ -2271,7 +2271,7 @@ Topology</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n1, n2, DOWN) :: tc</text>
+                version="3.4.0">(n1, n2, DOWN) :: tc</text>
         </annot>
       </arc>
       <hguideline id="ID1429762273"
@@ -2323,7 +2323,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NodexPacket</text>
+                version="3.4.0">NodexPacket</text>
         </type>
         <initmark id="ID1431417067">
           <posattr x="-19.000000"
@@ -2337,7 +2337,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
         <port id="ID1432055202"
               type="In">
@@ -2389,7 +2389,7 @@ Link</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NodexPacket</text>
+                version="3.4.0">NodexPacket</text>
         </type>
         <initmark id="ID1431421329">
           <posattr x="509.000000"
@@ -2403,7 +2403,7 @@ Link</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
         <port id="ID1432057759"
               type="Out">
@@ -2455,7 +2455,7 @@ State</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NetNode</text>
+                version="3.4.0">NetNode</text>
         </type>
         <initmark id="ID1432126218">
           <posattr x="194.000000"
@@ -2469,7 +2469,7 @@ State</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">1`(1,0,0,0,INITROOT)++
+                version="3.4.0">1`(1,0,0,0,INITROOT)++
 1`(2,0,0,0,INITNODE)++
 1`(3,0,0,0,INITNODE)++
 1`(4,0,0,0,INITNODE)++
@@ -2522,7 +2522,7 @@ State</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </cond>
         <time id="ID1432881945">
           <posattr x="312.500000"
@@ -2536,7 +2536,7 @@ State</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1432881946">
           <posattr x="332.500000"
@@ -2550,7 +2550,7 @@ State</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1432881947">
           <posattr x="331.500000"
@@ -2564,7 +2564,7 @@ State</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1432881948">
           <posattr x="122.000000"
@@ -2578,7 +2578,7 @@ State</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <trans id="ID1432889718"
@@ -2627,7 +2627,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </cond>
         <time id="ID1432889720">
           <posattr x="307.500000"
@@ -2641,7 +2641,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1432889721">
           <posattr x="327.500000"
@@ -2655,7 +2655,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1432889722">
           <posattr x="326.500000"
@@ -2669,7 +2669,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1432889723">
           <posattr x="127.000000"
@@ -2683,7 +2683,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <trans id="ID1432891218"
@@ -2731,7 +2731,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </cond>
         <time id="ID1432891220">
           <posattr x="311.500000"
@@ -2745,7 +2745,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1432891221">
           <posattr x="331.500000"
@@ -2759,7 +2759,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1432891222">
           <posattr x="330.500000"
@@ -2773,7 +2773,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1432891223">
           <posattr x="123.000000"
@@ -2787,7 +2787,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <trans id="ID1432893353"
@@ -2835,7 +2835,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </cond>
         <time id="ID1432893355">
           <posattr x="308.500000"
@@ -2849,7 +2849,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1432893356">
           <posattr x="328.500000"
@@ -2863,7 +2863,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1432893357">
           <posattr x="327.500000"
@@ -2877,7 +2877,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1432893358">
           <posattr x="126.000000"
@@ -2891,7 +2891,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <arc id="ID1432881949"
@@ -2936,7 +2936,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </annot>
       </arc>
       <arc id="ID1432881951"
@@ -2981,7 +2981,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </annot>
       </arc>
       <arc id="ID1432881953"
@@ -3026,7 +3026,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </annot>
       </arc>
       <arc id="ID1432889724"
@@ -3071,7 +3071,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </annot>
       </arc>
       <arc id="ID1432889726"
@@ -3116,7 +3116,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </annot>
       </arc>
       <arc id="ID1432891224"
@@ -3148,7 +3148,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </annot>
       </arc>
       <arc id="ID1432891226"
@@ -3193,7 +3193,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </annot>
       </arc>
       <arc id="ID1432891228"
@@ -3225,7 +3225,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </annot>
       </arc>
       <arc id="ID1432893359"
@@ -3270,7 +3270,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </annot>
       </arc>
       <arc id="ID1432893361"
@@ -3315,7 +3315,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </annot>
       </arc>
       <arc id="ID1432893363"
@@ -3360,7 +3360,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </annot>
       </arc>
       <hguideline id="ID1412923722"
@@ -3453,7 +3453,7 @@ State</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NetNode</text>
+                version="3.4.0">NetNode</text>
         </type>
         <initmark id="ID1432881977">
           <posattr x="108.000000"
@@ -3467,7 +3467,7 @@ State</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
         <port id="ID1432882145"
               type="I/O">
@@ -3519,7 +3519,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NodexPacket</text>
+                version="3.4.0">NodexPacket</text>
         </type>
         <initmark id="ID1432881982">
           <posattr x="111.000000"
@@ -3533,7 +3533,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
         <port id="ID1432881983"
               type="In">
@@ -3585,7 +3585,7 @@ Link</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NodexPacket</text>
+                version="3.4.0">NodexPacket</text>
         </type>
         <initmark id="ID1432881990">
           <posattr x="505.000000"
@@ -3599,7 +3599,7 @@ Link</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
         <port id="ID1432881991"
               type="Out">
@@ -3645,7 +3645,7 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">[state = JOINED orelse state = ROOTJOINED]</text>
+                version="3.4.0">[state = JOINED orelse state = ROOTJOINED]</text>
         </cond>
         <time id="ID1432888211">
           <posattr x="499.500000"
@@ -3659,7 +3659,7 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1432888212">
           <posattr x="519.500000"
@@ -3673,7 +3673,7 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1432888213">
           <posattr x="518.500000"
@@ -3687,7 +3687,7 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1432888214">
           <posattr x="359.000000"
@@ -3701,7 +3701,7 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <trans id="ID1432981353"
@@ -3734,7 +3734,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </cond>
         <time id="ID1432981355">
           <posattr x="124.500000"
@@ -3748,7 +3748,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1432981356">
           <posattr x="144.500000"
@@ -3762,7 +3762,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1432981357">
           <posattr x="143.500000"
@@ -3776,7 +3776,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1432981358">
           <posattr x="-52.000000"
@@ -3790,7 +3790,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <trans id="ID1433000248"
@@ -3822,7 +3822,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </cond>
         <time id="ID1433000250">
           <posattr x="518.500000"
@@ -3836,7 +3836,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1433000251">
           <posattr x="538.500000"
@@ -3850,7 +3850,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1433000252">
           <posattr x="537.500000"
@@ -3864,7 +3864,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1433000253">
           <posattr x="340.000000"
@@ -3878,7 +3878,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <arc id="ID1432888285"
@@ -3910,7 +3910,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n2, rank, ver, parent, state)</text>
+                version="3.4.0">(n2, rank, ver, parent, state)</text>
         </annot>
       </arc>
       <arc id="ID1432888293"
@@ -3942,7 +3942,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n2, (DEST(n), DIO(rank,ver)))</text>
+                version="3.4.0">(n2, (DEST(n), DIO(rank,ver)))</text>
         </annot>
       </arc>
       <arc id="ID1432888301"
@@ -3974,7 +3974,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, (DEST n2, DIS))</text>
+                version="3.4.0">(n, (DEST n2, DIS))</text>
         </annot>
       </arc>
       <arc id="ID1432981415"
@@ -4006,7 +4006,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n2, rank, ver, parent, state)</text>
+                version="3.4.0">(n2, rank, ver, parent, state)</text>
         </annot>
       </arc>
       <arc id="ID1432981419"
@@ -4038,7 +4038,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">objectiveFunction(n, n2, rank, ver, rrank, rver, parent, state)</text>
+                version="3.4.0">objectiveFunction(n, n2, rank, ver, rrank, rver, parent, state)</text>
         </annot>
       </arc>
       <arc id="ID1432981428"
@@ -4070,7 +4070,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, (DEST n2, DIO(rrank,rver)))</text>
+                version="3.4.0">(n, (DEST n2, DIO(rrank,rver)))</text>
         </annot>
       </arc>
       <arc id="ID1433000313"
@@ -4102,7 +4102,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">discoveryReq(n)</text>
+                version="3.4.0">discoveryReq(n)</text>
         </annot>
       </arc>
       <arc id="ID1433000321"
@@ -4134,7 +4134,7 @@ DIO Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, rank, ver, parent, JOINING)</text>
+                version="3.4.0">(n, rank, ver, parent, JOINING)</text>
         </annot>
       </arc>
       <hguideline id="ID1433030403"
@@ -4207,7 +4207,7 @@ Disregard</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">ConfigParam</text>
+                version="3.4.0">ConfigParam</text>
         </type>
         <initmark id="ID1432889736">
           <posattr x="356.000000"
@@ -4221,7 +4221,7 @@ Disregard</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">disregard</text>
+                version="3.4.0">disregard</text>
         </initmark>
       </place>
       <place id="ID1432889767">
@@ -4260,7 +4260,7 @@ State</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NetNode</text>
+                version="3.4.0">NetNode</text>
         </type>
         <initmark id="ID1432889769">
           <posattr x="5.000000"
@@ -4274,7 +4274,7 @@ State</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
         <port id="ID1432889874"
               type="I/O">
@@ -4326,7 +4326,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NodexPacket</text>
+                version="3.4.0">NodexPacket</text>
         </type>
         <initmark id="ID1432889778">
           <posattr x="8.000000"
@@ -4340,7 +4340,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
         <port id="ID1432889779"
               type="In">
@@ -4393,7 +4393,7 @@ Increase</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">ConfigParam</text>
+                version="3.4.0">ConfigParam</text>
         </type>
         <initmark id="ID1433267269">
           <posattr x="377.500000"
@@ -4407,7 +4407,7 @@ Increase</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">dodagIncrease</text>
+                version="3.4.0">dodagIncrease</text>
         </initmark>
       </place>
       <place id="ID1433311633">
@@ -4446,7 +4446,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">ConfigParam</text>
+                version="3.4.0">ConfigParam</text>
         </type>
         <initmark id="ID1433311635">
           <posattr x="-257.500000"
@@ -4460,7 +4460,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">ackTimeout</text>
+                version="3.4.0">ackTimeout</text>
         </initmark>
       </place>
       <trans id="ID1432889737"
@@ -4492,7 +4492,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </cond>
         <time id="ID1432889739">
           <posattr x="-268.500000"
@@ -4506,7 +4506,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1432889740">
           <posattr x="-248.500000"
@@ -4520,7 +4520,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1432889741">
           <posattr x="-249.500000"
@@ -4534,7 +4534,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1432889742">
           <posattr x="-403.000000"
@@ -4548,7 +4548,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <trans id="ID1432889743"
@@ -4580,7 +4580,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </cond>
         <time id="ID1432889745">
           <posattr x="0.500000"
@@ -4594,7 +4594,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1432889746">
           <posattr x="20.500000"
@@ -4608,7 +4608,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1432889747">
           <posattr x="19.500000"
@@ -4622,7 +4622,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1432889748">
           <posattr x="-136.000000"
@@ -4636,7 +4636,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <trans id="ID1432889749"
@@ -4668,7 +4668,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">[config]</text>
+                version="3.4.0">[config]</text>
         </cond>
         <time id="ID1432889751">
           <posattr x="361.500000"
@@ -4682,7 +4682,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1432889752">
           <posattr x="381.500000"
@@ -4696,7 +4696,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1432889753">
           <posattr x="380.500000"
@@ -4710,7 +4710,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1432889754">
           <posattr x="207.000000"
@@ -4724,7 +4724,7 @@ Timeout</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <trans id="ID1433267257"
@@ -4758,7 +4758,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">[config]</text>
+                version="3.4.0">[config]</text>
         </cond>
         <time id="ID1433267259">
           <posattr x="360.500000"
@@ -4772,7 +4772,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1433267260">
           <posattr x="380.500000"
@@ -4786,7 +4786,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1433267261">
           <posattr x="379.500000"
@@ -4800,7 +4800,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1433267262">
           <posattr x="208.000000"
@@ -4814,7 +4814,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <trans id="ID1433311350"
@@ -4846,7 +4846,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">[config]</text>
+                version="3.4.0">[config]</text>
         </cond>
         <time id="ID1433311352">
           <posattr x="1.500000"
@@ -4860,7 +4860,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1433311353">
           <posattr x="21.500000"
@@ -4874,7 +4874,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1433311354">
           <posattr x="20.500000"
@@ -4888,7 +4888,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1433311355">
           <posattr x="-137.000000"
@@ -4902,7 +4902,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <arc id="ID1432889763"
@@ -4934,7 +4934,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">config</text>
+                version="3.4.0">config</text>
         </annot>
       </arc>
       <arc id="ID1432889772"
@@ -4966,7 +4966,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, 0, 0, 0, JOINING)</text>
+                version="3.4.0">(n, 0, 0, 0, JOINING)</text>
         </annot>
       </arc>
       <arc id="ID1432889774"
@@ -4998,7 +4998,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, 1, 1, 0, ROOTJOINED)</text>
+                version="3.4.0">(n, 1, 1, 0, ROOTJOINED)</text>
         </annot>
       </arc>
       <arc id="ID1432889780"
@@ -5030,7 +5030,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, (DEST n2, packettype))</text>
+                version="3.4.0">(n, (DEST n2, packettype))</text>
         </annot>
       </arc>
       <arc id="ID1432946563"
@@ -5062,7 +5062,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, 0, 0, 0, INITROOT)</text>
+                version="3.4.0">(n, 0, 0, 0, INITROOT)</text>
         </annot>
       </arc>
       <arc id="ID1432947877"
@@ -5094,7 +5094,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, 0, 0, 0, INITNODE)</text>
+                version="3.4.0">(n, 0, 0, 0, INITNODE)</text>
         </annot>
       </arc>
       <arc id="ID1433267270"
@@ -5126,7 +5126,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">config</text>
+                version="3.4.0">config</text>
         </annot>
       </arc>
       <arc id="ID1433267312"
@@ -5158,7 +5158,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n,rank,ver,parent, ROOTJOINED)</text>
+                version="3.4.0">(n,rank,ver,parent, ROOTJOINED)</text>
         </annot>
       </arc>
       <arc id="ID1433267316"
@@ -5190,7 +5190,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n,rank,ver+1,parent, ROOTJOINED)</text>
+                version="3.4.0">(n,rank,ver+1,parent, ROOTJOINED)</text>
         </annot>
       </arc>
       <arc id="ID1433312519"
@@ -5222,7 +5222,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, rank, ver, parent, WAITING)</text>
+                version="3.4.0">(n, rank, ver, parent, WAITING)</text>
         </annot>
       </arc>
       <arc id="ID1433312964"
@@ -5254,7 +5254,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, rank, ver, parent, JOINING)</text>
+                version="3.4.0">(n, rank, ver, parent, JOINING)</text>
         </annot>
       </arc>
       <arc id="ID1433313320"
@@ -5286,7 +5286,7 @@ Version</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">config</text>
+                version="3.4.0">config</text>
         </annot>
       </arc>
       <hguideline id="ID1433306823"
@@ -5371,7 +5371,7 @@ Link</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NodexPacket</text>
+                version="3.4.0">NodexPacket</text>
         </type>
         <initmark id="ID1432891246">
           <posattr x="728.000000"
@@ -5385,7 +5385,7 @@ Link</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
         <port id="ID1432891247"
               type="Out">
@@ -5437,7 +5437,7 @@ State</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NetNode</text>
+                version="3.4.0">NetNode</text>
         </type>
         <initmark id="ID1432891252">
           <posattr x="220.000000"
@@ -5451,7 +5451,7 @@ State</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
         <port id="ID1432891366"
               type="I/O">
@@ -5503,7 +5503,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NodexPacket</text>
+                version="3.4.0">NodexPacket</text>
         </type>
         <initmark id="ID1432891257">
           <posattr x="223.000000"
@@ -5517,7 +5517,7 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
         <port id="ID1432891258"
               type="In">
@@ -5569,7 +5569,7 @@ Transmission</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">ConfigParam</text>
+                version="3.4.0">ConfigParam</text>
         </type>
         <initmark id="ID1433127377">
           <posattr x="733.000000"
@@ -5583,7 +5583,7 @@ Transmission</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">sendDAO</text>
+                version="3.4.0">sendDAO</text>
         </initmark>
       </place>
       <place id="ID1433127378">
@@ -5623,7 +5623,7 @@ With ACK req</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">ConfigParam</text>
+                version="3.4.0">ConfigParam</text>
         </type>
         <initmark id="ID1433127380">
           <posattr x="519.000000"
@@ -5637,7 +5637,7 @@ With ACK req</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">sendDAOwithACK</text>
+                version="3.4.0">sendDAOwithACK</text>
         </initmark>
       </place>
       <trans id="ID1433124011"
@@ -5670,7 +5670,7 @@ ACK request</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">[options=0]</text>
+                version="3.4.0">[options=0]</text>
         </cond>
         <time id="ID1433124013">
           <posattr x="227.500000"
@@ -5684,7 +5684,7 @@ ACK request</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1433124014">
           <posattr x="247.500000"
@@ -5698,7 +5698,7 @@ ACK request</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1433124015">
           <posattr x="246.500000"
@@ -5712,7 +5712,7 @@ ACK request</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1433124016">
           <posattr x="69.000000"
@@ -5726,7 +5726,7 @@ ACK request</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <trans id="ID1433127355"
@@ -5758,7 +5758,7 @@ ACK request</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">[config]</text>
+                version="3.4.0">[config]</text>
         </cond>
         <time id="ID1433127357">
           <posattr x="725.500000"
@@ -5772,7 +5772,7 @@ ACK request</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1433127358">
           <posattr x="745.500000"
@@ -5786,7 +5786,7 @@ ACK request</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1433127359">
           <posattr x="744.500000"
@@ -5800,7 +5800,7 @@ ACK request</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1433127360">
           <posattr x="579.000000"
@@ -5814,7 +5814,7 @@ ACK request</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <trans id="ID1433127361"
@@ -5847,7 +5847,7 @@ request ack</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">[config]</text>
+                version="3.4.0">[config]</text>
         </cond>
         <time id="ID1433127363">
           <posattr x="487.500000"
@@ -5861,7 +5861,7 @@ request ack</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1433127364">
           <posattr x="507.500000"
@@ -5875,7 +5875,7 @@ request ack</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1433127365">
           <posattr x="506.500000"
@@ -5889,7 +5889,7 @@ request ack</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1433127366">
           <posattr x="337.000000"
@@ -5903,7 +5903,7 @@ request ack</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <arc id="ID1433124073"
@@ -5935,7 +5935,7 @@ request ack</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, 
+                version="3.4.0">(n, 
   (DEST n2, 
    DAO(rank,rver,data, options)
 ))</text>
@@ -5970,7 +5970,7 @@ request ack</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n2, rank, ver, parent, state)</text>
+                version="3.4.0">(n2, rank, ver, parent, state)</text>
         </annot>
       </arc>
       <arc id="ID1433124085"
@@ -6002,7 +6002,7 @@ request ack</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n2, rank, ver, parent, state)</text>
+                version="3.4.0">(n2, rank, ver, parent, state)</text>
         </annot>
       </arc>
       <arc id="ID1433127396"
@@ -6034,7 +6034,7 @@ request ack</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">config</text>
+                version="3.4.0">config</text>
         </annot>
       </arc>
       <arc id="ID1433127398"
@@ -6066,7 +6066,7 @@ request ack</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">config</text>
+                version="3.4.0">config</text>
         </annot>
       </arc>
       <arc id="ID1433127459"
@@ -6098,7 +6098,7 @@ request ack</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, rank, ver, parent, JOINED)</text>
+                version="3.4.0">(n, rank, ver, parent, JOINED)</text>
         </annot>
       </arc>
       <arc id="ID1433127463"
@@ -6130,7 +6130,7 @@ request ack</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, rank, ver, parent, JOINED)</text>
+                version="3.4.0">(n, rank, ver, parent, JOINED)</text>
         </annot>
       </arc>
       <arc id="ID1433127467"
@@ -6162,7 +6162,7 @@ request ack</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, rank, ver, parent,  WAITING)</text>
+                version="3.4.0">(n, rank, ver, parent,  WAITING)</text>
         </annot>
       </arc>
       <arc id="ID1433127477"
@@ -6194,7 +6194,7 @@ request ack</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, (DEST(parent), 
+                version="3.4.0">(n, (DEST(parent), 
 DAO(rank, ver, &quot;data&quot;, 0)))</text>
         </annot>
       </arc>
@@ -6227,7 +6227,7 @@ DAO(rank, ver, &quot;data&quot;, 0)))</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, (DEST(parent), DAO(rank, ver, &quot;data&quot;, 1)))</text>
+                version="3.4.0">(n, (DEST(parent), DAO(rank, ver, &quot;data&quot;, 1)))</text>
         </annot>
       </arc>
       <hguideline id="ID1433169825"
@@ -6284,8 +6284,8 @@ DAO(rank, ver, &quot;data&quot;, 0)))</text>
     <page id="ID1432893365">
       <pageattr name="DAOACK"/>
       <place id="ID1432893379">
-        <posattr x="28.000000"
-                 y="711.000000"/>
+        <posattr x="229.000000"
+                 y="540.000000"/>
         <fillattr colour="White"
                   pattern=""
                   filled="false"/>
@@ -6300,16 +6300,16 @@ State</text>
                  h="60.000000"/>
         <token x="-10.000000"
                y="0.000000"/>
-        <marking x="-38.000000"
-                 y="109.000000"
+        <marking x="25.000000"
+                 y="143.000000"
                  hidden="false">
           <snap snap_id="0"
-                anchor.horizontal="3"
+                anchor.horizontal="1"
                 anchor.vertical="2"/>
         </marking>
         <type id="ID1432893380">
-          <posattr x="99.500000"
-                   y="672.000000"/>
+          <posattr x="284.500000"
+                   y="508.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6319,11 +6319,11 @@ State</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NetNode</text>
+                version="3.4.0">NetNode</text>
         </type>
         <initmark id="ID1432893381">
-          <posattr x="88.000000"
-                   y="742.000000"/>
+          <posattr x="289.000000"
+                   y="571.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6333,12 +6333,12 @@ State</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
         <port id="ID1432893508"
               type="I/O">
-          <posattr x="0.000000"
-                   y="686.000000"/>
+          <posattr x="200.000000"
+                   y="515.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6351,7 +6351,7 @@ State</text>
       </place>
       <place id="ID1432893384">
         <posattr x="438.000000"
-                 y="512.000000"/>
+                 y="319.000000"/>
         <fillattr colour="White"
                   pattern=""
                   filled="false"/>
@@ -6375,7 +6375,7 @@ Link</text>
         </marking>
         <type id="ID1432893385">
           <posattr x="511.000000"
-                   y="476.000000"/>
+                   y="283.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6385,11 +6385,11 @@ Link</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NodexPacket</text>
+                version="3.4.0">NodexPacket</text>
         </type>
         <initmark id="ID1432893386">
           <posattr x="502.000000"
-                   y="547.000000"/>
+                   y="354.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6399,12 +6399,12 @@ Link</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
         <port id="ID1432893387"
               type="Out">
           <posattr x="405.000000"
-                   y="483.000000"/>
+                   y="290.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6417,7 +6417,7 @@ Link</text>
       </place>
       <place id="ID1432893390">
         <posattr x="28.000000"
-                 y="356.000000"/>
+                 y="319.000000"/>
         <fillattr colour="White"
                   pattern=""
                   filled="false"/>
@@ -6441,7 +6441,7 @@ Roll</text>
         </marking>
         <type id="ID1432893391">
           <posattr x="78.000000"
-                   y="317.000000"/>
+                   y="280.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6451,11 +6451,11 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">NodexPacket</text>
+                version="3.4.0">NodexPacket</text>
         </type>
         <initmark id="ID1432893392">
           <posattr x="91.000000"
-                   y="389.000000"/>
+                   y="352.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6465,12 +6465,12 @@ Roll</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </initmark>
         <port id="ID1432893393"
               type="In">
           <posattr x="-3.000000"
-                   y="329.000000"/>
+                   y="292.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6483,8 +6483,8 @@ Roll</text>
       </place>
       <trans id="ID1433066109"
              explicit="false">
-        <posattr x="438.000000"
-                 y="356.000000"/>
+        <posattr x="229.000000"
+                 y="399.000000"/>
         <fillattr colour="White"
                   pattern=""
                   filled="false"/>
@@ -6500,8 +6500,8 @@ Response</text>
         <binding x="7.200000"
                  y="-3.000000"/>
         <cond id="ID1433066110">
-          <posattr x="385.000000"
-                   y="394.000000"/>
+          <posattr x="176.000000"
+                   y="437.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6511,11 +6511,11 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </cond>
         <time id="ID1433066111">
-          <posattr x="496.500000"
-                   y="394.000000"/>
+          <posattr x="287.500000"
+                   y="437.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6525,11 +6525,11 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1433066112">
-          <posattr x="516.500000"
-                   y="297.000000"/>
+          <posattr x="307.500000"
+                   y="340.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6539,11 +6539,11 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1433066113">
-          <posattr x="515.500000"
-                   y="356.000000"/>
+          <posattr x="306.500000"
+                   y="399.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6553,11 +6553,11 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1433066114">
-          <posattr x="356.000000"
-                   y="318.000000"/>
+          <posattr x="147.000000"
+                   y="361.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6567,13 +6567,13 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <trans id="ID1433069882"
              explicit="false">
-        <posattr x="28.000000"
-                 y="512.000000"/>
+        <posattr x="229.000000"
+                 y="663.000000"/>
         <fillattr colour="White"
                   pattern=""
                   filled="false"/>
@@ -6588,8 +6588,8 @@ Response</text>
         <binding x="7.200000"
                  y="-3.000000"/>
         <cond id="ID1433069883">
-          <posattr x="-35.000000"
-                   y="547.000000"/>
+          <posattr x="166.000000"
+                   y="698.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6599,11 +6599,11 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </cond>
         <time id="ID1433069884">
-          <posattr x="96.500000"
-                   y="547.000000"/>
+          <posattr x="297.500000"
+                   y="698.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6613,11 +6613,11 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </time>
         <code id="ID1433069885">
-          <posattr x="116.500000"
-                   y="456.000000"/>
+          <posattr x="317.500000"
+                   y="607.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6627,11 +6627,11 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </code>
         <channel id="ID1433069886">
-          <posattr x="115.500000"
-                   y="512.000000"/>
+          <posattr x="316.500000"
+                   y="663.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6641,11 +6641,11 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </channel>
         <priority id="ID1433069887">
-          <posattr x="-64.000000"
-                   y="477.000000"/>
+          <posattr x="137.000000"
+                   y="628.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6655,7 +6655,7 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2"/>
+                version="3.4.0"/>
         </priority>
       </trans>
       <arc id="ID1433066185"
@@ -6676,8 +6676,8 @@ Response</text>
         <transend idref="ID1433066109"/>
         <placeend idref="ID1432893379"/>
         <annot id="ID1433066186">
-          <posattr x="226.000000"
-                   y="515.000000"/>
+          <posattr x="323.500000"
+                   y="475.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6687,7 +6687,7 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n2, rank, ver, parent, state)</text>
+                version="3.4.0">(n2, rank, ver, parent, state)</text>
         </annot>
       </arc>
       <arc id="ID1433066193"
@@ -6707,9 +6707,22 @@ Response</text>
                    currentcyckle="2"/>
         <transend idref="ID1433066109"/>
         <placeend idref="ID1432893384"/>
+        <bendpoint id="ID1447929187"
+                   serial="1">
+          <posattr x="438.000000"
+                   y="399.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+        </bendpoint>
         <annot id="ID1433066194">
-          <posattr x="505.000000"
-                   y="428.000000"/>
+          <posattr x="368.000000"
+                   y="417.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6719,10 +6732,8 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n2, 
-  (DEST(n), 
-   DAOACK(rank,ver)
-))</text>
+                version="3.4.0">(n2, (DEST(n), 
+   DAOACK(rank,ver)))</text>
         </annot>
       </arc>
       <arc id="ID1433066201"
@@ -6742,9 +6753,22 @@ Response</text>
                    currentcyckle="2"/>
         <transend idref="ID1433066109"/>
         <placeend idref="ID1432893390"/>
+        <bendpoint id="ID1447927354"
+                   serial="1">
+          <posattr x="28.000000"
+                   y="399.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+        </bendpoint>
         <annot id="ID1433066202">
-          <posattr x="230.000000"
-                   y="367.000000"/>
+          <posattr x="110.000000"
+                   y="417.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6754,7 +6778,8 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, (DEST n2, DAO(rrank,rver,data,1)))</text>
+                version="3.4.0">(n, (DEST n2, 
+DAO(rrank,rver,data,1)))</text>
         </annot>
       </arc>
       <arc id="ID1433069961"
@@ -6774,9 +6799,22 @@ Response</text>
                    currentcyckle="2"/>
         <transend idref="ID1433069882"/>
         <placeend idref="ID1432893390"/>
+        <bendpoint id="ID1447922332"
+                   serial="1">
+          <posattr x="28.000000"
+                   y="663.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+        </bendpoint>
         <annot id="ID1433069962">
-          <posattr x="142.000000"
-                   y="431.000000"/>
+          <posattr x="96.000000"
+                   y="681.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6786,44 +6824,12 @@ Response</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">(n, (DEST n2, DAOACK(rrank,rver)))</text>
+                version="3.4.0">(n, (DEST n2, 
+DAOACK(rrank,rver)))</text>
         </annot>
       </arc>
       <arc id="ID1433069977"
            orientation="PtoT"
-           order="2">
-        <posattr x="0.000000"
-                 y="0.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <arrowattr headsize="1.200000"
-                   currentcyckle="2"/>
-        <transend idref="ID1433069882"/>
-        <placeend idref="ID1432893379"/>
-        <annot id="ID1433069978">
-          <posattr x="-38.500000"
-                   y="587.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="3.2.2">(n2, rank, ver, 
-parent, WAITING)</text>
-        </annot>
-      </arc>
-      <arc id="ID1433069981"
-           orientation="TtoP"
            order="1">
         <posattr x="0.000000"
                  y="0.000000"/>
@@ -6839,9 +6845,9 @@ parent, WAITING)</text>
                    currentcyckle="2"/>
         <transend idref="ID1433069882"/>
         <placeend idref="ID1432893379"/>
-        <annot id="ID1433069982">
-          <posattr x="229.500000"
-                   y="581.000000"/>
+        <annot id="ID1433069978">
+          <posattr x="162.500000"
+                   y="600.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -6851,33 +6857,64 @@ parent, WAITING)</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="3.2.2">objectiveFunction(n, n2, rank, ver, rrank, rver, parent, state)</text>
+                version="3.4.0">(n2, rank, ver, 
+parent, WAITING)</text>
+        </annot>
+      </arc>
+      <arc id="ID1433069981"
+           orientation="TtoP"
+           order="2">
+        <posattr x="0.000000"
+                 y="0.000000"/>
+        <fillattr colour="White"
+                  pattern=""
+                  filled="false"/>
+        <lineattr colour="Black"
+                  thick="1"
+                  type="Solid"/>
+        <textattr colour="Black"
+                  bold="false"/>
+        <arrowattr headsize="1.200000"
+                   currentcyckle="2"/>
+        <transend idref="ID1433069882"/>
+        <placeend idref="ID1432893379"/>
+        <annot id="ID1433069982">
+          <posattr x="349.500000"
+                   y="600.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+          <text tool="CPN Tools"
+                version="3.4.0">objectiveFunction(n, n2, rank, ver, 
+              rrank, rver, parent, state)</text>
         </annot>
       </arc>
       <hguideline id="ID1433092985"
-                  y="-711.000000">
+                  y="-711.000000"/>
+      <hguideline id="ID1433094066"
+                  y="-540.000000">
         <guideline_elm idref="ID1432893379"/>
       </hguideline>
-      <hguideline id="ID1433094066"
-                  y="-512.000000">
-        <guideline_elm idref="ID1432893384"/>
-        <guideline_elm idref="ID1433069882"/>
-      </hguideline>
       <hguideline id="ID1433095136"
-                  y="-356.000000">
-        <guideline_elm idref="ID1433066109"/>
+                  y="-319.000000">
         <guideline_elm idref="ID1432893390"/>
+        <guideline_elm idref="ID1432893384"/>
       </hguideline>
       <vguideline id="ID1433089991"
                   x="438.000000">
-        <guideline_elm idref="ID1433066109"/>
         <guideline_elm idref="ID1432893384"/>
+        <guideline_elm idref="ID1447929187"/>
       </vguideline>
       <vguideline id="ID1433090979"
                   x="28.000000">
         <guideline_elm idref="ID1432893390"/>
-        <guideline_elm idref="ID1433069882"/>
-        <guideline_elm idref="ID1432893379"/>
+        <guideline_elm idref="ID1447922332"/>
+        <guideline_elm idref="ID1447927354"/>
       </vguideline>
       <vguideline id="ID1433091970"
                   x="601.000000"/>
@@ -7152,10 +7189,10 @@ parent, WAITING)</text>
     </options>
     <binders>
       <cpnbinder id="ID1432812930"
-                 x="840"
-                 y="76"
+                 x="449"
+                 y="41"
                  width="942"
-                 height="827">
+                 height="770">
         <sheets>
           <cpnsheet id="ID1432812923"
                     panx="360.000000"
@@ -7199,8 +7236,8 @@ parent, WAITING)</text>
             </zorder>
           </cpnsheet>
           <cpnsheet id="ID1432921932"
-                    panx="-348.000000"
-                    pany="532.000000"
+                    panx="-351.000000"
+                    pany="528.000000"
                     zoom="1.000000"
                     instance="ID1432893454">
             <zorder>
@@ -7242,16 +7279,27 @@ parent, WAITING)</text>
               <position value="0"/>
             </zorder>
           </cpnsheet>
+          <cpnsheet id="ID1447919798"
+                    panx="357.000000"
+                    pany="50.000000"
+                    zoom="1.000000"
+                    instance="ID2149">
+            <zorder>
+              <position value="1"/>
+              <position value="0"/>
+            </zorder>
+          </cpnsheet>
         </sheets>
         <zorder>
           <position value="7"/>
-          <position value="6"/>
-          <position value="5"/>
-          <position value="4"/>
           <position value="0"/>
           <position value="2"/>
           <position value="1"/>
           <position value="3"/>
+          <position value="8"/>
+          <position value="5"/>
+          <position value="6"/>
+          <position value="4"/>
         </zorder>
       </cpnbinder>
     </binders>
